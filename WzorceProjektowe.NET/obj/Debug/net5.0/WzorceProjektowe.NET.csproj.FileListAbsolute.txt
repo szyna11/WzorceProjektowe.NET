@@ -1,0 +1,16 @@
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\bin\Debug\net5.0\WzorceProjektowe.NET.exe
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\bin\Debug\net5.0\WzorceProjektowe.NET.deps.json
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\bin\Debug\net5.0\WzorceProjektowe.NET.runtimeconfig.json
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\bin\Debug\net5.0\WzorceProjektowe.NET.runtimeconfig.dev.json
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\bin\Debug\net5.0\WzorceProjektowe.NET.dll
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\bin\Debug\net5.0\ref\WzorceProjektowe.NET.dll
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\bin\Debug\net5.0\WzorceProjektowe.NET.pdb
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.csproj.AssemblyReference.cache
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.AssemblyInfoInputs.cache
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.AssemblyInfo.cs
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.csproj.CoreCompileInputs.cache
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.dll
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\ref\WzorceProjektowe.NET.dll
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.pdb
+C:\Users\SZYNA\Desktop\C#\WzorceProjektowe.NET\WzorceProjektowe.NET\obj\Debug\net5.0\WzorceProjektowe.NET.genruntimeconfig.cache
