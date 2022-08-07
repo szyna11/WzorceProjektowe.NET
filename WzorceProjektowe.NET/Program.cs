@@ -12,6 +12,15 @@ namespace WzorceProjektowe.NET
             //Console.WriteLine(person.Name);
 
             Console.ReadLine();
+
+            IPrinter printer = GetPrinter();
+
+            printer.Print("some content");
+        }
+
+        static IPrinter GetPrinter()
+        {
+            return new Canon();
         }
     }
 }
